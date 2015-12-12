@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 
-/* I come from local GIT */
+/* I am the version from GIT */
 public class Main
 {
     public static void main(String[] args)
