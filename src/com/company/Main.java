@@ -3,6 +3,8 @@ package com.company;
 import java.util.ArrayList;
 
 /* I am the version from GIT */
+/* Yet again the content has been modified locally */
+
 public class Main
 {
     public static void main(String[] args)
